@@ -1,15 +1,12 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/49/1e/98/491e98a2c3e81f3efb34db8f9e4c62a8.gif" alt="Deskripsi" width="100%"/>
-  <h2>Welcome to My Github <span>👋</span></h2>
-  <p>
-    This is a <b>sandbox and experimental</b> account — a playground for testing things out before they 
-    <i>(hopefully)</i> move to the main account <i>(coming soon!)</i> <span>🚀</span><br><br>
-    Thanks a lot for stopping by. If you find anything useful, feel free to ⭐️ it! 
-  </p>
-</div>
+![gif](https://i.pinimg.com/originals/49/1e/98/491e98a2c3e81f3efb34db8f9e4c62a8.gif)
 
----
-### About Me
+## Welcome to My Github 👋
+
+This is a **sandbox and experimental** account — a playground for testing things out before they  
+_(hopefully)_ move to the main account _(coming soon!)_ 🚀
+
+Thanks a lot for stopping by. If you find anything useful, feel free to ⭐️ it!
+
 <!--
 gif :
 https://i.pinimg.com/originals/49/1e/98/491e98a2c3e81f3efb34db8f9e4c62a8.gif : Kaneki Ken
