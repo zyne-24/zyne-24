@@ -39,7 +39,7 @@ Gotta start somewhere, right?
   <p>
     <img src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif" height="80" style="margin-right:10px" />
     <img src="https://media1.tenor.com/m/Kr6jKur1_DYAAAAC/cat.gif" height="80" style="margin-right:10px" />
-    <img src="https://media1.tenor.com/m/uuHrslDxaBoAAAAd/anime-anime-girl.gif" height="80" style="margin-right:10px" />
+    <img src="https://media1.tenor.com/m/PdiBiXr7LFUAAAAC/slime-anime.gif" height="80" style="margin-right:10px" />
     <img src="https://media1.tenor.com/m/TeDLSpDfcaQAAAAC/anime-eating.gif" height="80" style="margin-right:10px"/>
     <img src="https://media1.tenor.com/m/NMAMk3d1dkEAAAAd/re-zero-anime-girl.gif" height="80" />
   </p>
