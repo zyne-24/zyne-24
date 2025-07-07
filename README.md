@@ -35,7 +35,19 @@ Gotta start somewhere, right?
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyne-24&layout=compact&theme=tokyonight)
 
 ## Miscellaneous - 🎲
-<img src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif" width="50" style="vertical-align: middle;" /></h2>
+<img src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif" width="50" style="vertical-align: middle;" />
+<img src="https://media1.tenor.com/m/Kr6jKur1_DYAAAAC/cat.gif" width="50" style="vertical-align: middle;" />
+<img src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif" width="50" style="vertical-align: middle;" />
+<img src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif" width="50" style="vertical-align: middle;" />
+<img src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif" width="50" style="vertical-align: middle;" />
+<img src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif" width="50" style="vertical-align: middle;" />
+<img src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif" width="50" style="vertical-align: middle;" />
+<img src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif" width="50" style="vertical-align: middle;" />
+<img src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif" width="50" style="vertical-align: middle;" />
+<img src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif" width="50" style="vertical-align: middle;" />
+<img src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif" width="50" style="vertical-align: middle;" />
+<img src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif" width="50" style="vertical-align: middle;" />
+<img src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif" width="50" style="vertical-align: middle;" />
 
 <!--
 gif :
