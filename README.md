@@ -3,10 +3,11 @@
   <h2>Welcome to My Github :wave:</h2>
   <p>This is a <b>sandbox and experimental</b> account — a playground for testing things out before they <i>(hopefully)</i> move to the main account <i>(coming soon!)</i> :rocket:
 
-Thanks a lot for stopping by.  
-If you find anything useful, feel free to ⭐️ it! 
+Thanks a lot for stopping by. If you find anything useful, feel free to ⭐️ it! 
 </p>
 </div>
+---
+## About Me
 <!--
 **zyne-24/zyne-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
