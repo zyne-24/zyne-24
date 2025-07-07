@@ -1,4 +1,4 @@
-![gif](https://i.pinimg.com/originals/49/1e/98/491e98a2c3e81f3efb34db8f9e4c62a8.gif)
+<img src="https://i.pinimg.com/originals/49/1e/98/491e98a2c3e81f3efb34db8f9e4c62a8.gif" alt="Deskripsi" width="100%" />
 
 ## Welcome to My Github 👋
 
