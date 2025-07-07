@@ -37,10 +37,10 @@ Gotta start somewhere, right?
 ## Miscellaneous - 🎲
 <div align="center">
   <p>
-    <img src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif" width="80" height="80" style="margin-right:10px; object-fit: cover;" />
-    <img src="https://media1.tenor.com/m/Kr6jKur1_DYAAAAC/cat.gif" width="80" height="80" style="margin-right:10px; object-fit: cover;" />
-    <img src="https://media1.tenor.com/m/uuHrslDxaBoAAAAd/anime-anime-girl.gif" width="80" height="80" style="margin-right:10px; object-fit: cover;" />
-    <img src="https://media1.tenor.com/m/TeDLSpDfcaQAAAAC/anime-eating.gif" width="80" height="80" style="object-fit: cover;" />
+    <img src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif" height="80" style="margin-right:10px" />
+    <img src="https://media1.tenor.com/m/Kr6jKur1_DYAAAAC/cat.gif" height="80" style="margin-right:10px" />
+    <img src="https://media1.tenor.com/m/uuHrslDxaBoAAAAd/anime-anime-girl.gif" height="80" style="margin-right:10px" />
+    <img src="https://media1.tenor.com/m/TeDLSpDfcaQAAAAC/anime-eating.gif" height="80" />
   </p>
 </div>
 
