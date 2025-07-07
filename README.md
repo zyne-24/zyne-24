@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/49/1e/98/491e98a2c3e81f3efb34db8f9e4c62a8.gif" alt="Deskripsi" width="100%" />
+<img src="https://media1.tenor.com/m/Ch4VFEjuI7IAAAAC/anime-boy.gif" alt="Deskripsi" width="100%" />
 
 ## Hi, I'm zyne 👋
 
