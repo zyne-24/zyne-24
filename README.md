@@ -47,6 +47,22 @@ Gotta start somewhere, right?
 
 ###### Resources - 📁
 [^1][GIF](https://media1.tenor.com/m/0Rct1fnwVZMAAAAd/suou-yuki-sister.gif)
+[^2][GIF](https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif)
+[^3][GIF](https://media1.tenor.com/m/Kr6jKur1_DYAAAAC/cat.gif)
+[^4][GIF](https://media1.tenor.com/m/PdiBiXr7LFUAAAAC/slime-anime.gif)
+[^5][GIF](https://media1.tenor.com/m/TeDLSpDfcaQAAAAC/anime-eating.gif)
+[^6][GIF](https://media1.tenor.com/m/NMAMk3d1dkEAAAAd/re-zero-anime-girl.gif)
+[^7][Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[^8][Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[^9][Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+[^10][Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+[^11][Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+[^12][Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+[^13][Badge](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+[^14][Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[^15][Badge](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+[^16][Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[^17][Badge](https://img.shields.io/badge/Instagram-%234B4B4B.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
 
 <!--
