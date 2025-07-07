@@ -18,7 +18,7 @@ Gotta start somewhere, right?
 ## 🛠️ My Toolbox
 
 ## 🌏 - Social
-Instagram : [@parikesitaji_](https://instagram.com/parikesitaji_)!
+Instagram : [@parikesitaji_](https://instagram.com/parikesitaji_)
 
 
 <!--
