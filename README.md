@@ -30,6 +30,8 @@ Gotta start somewhere, right?
 ## Social - 🌏
 [![Instagram](https://img.shields.io/badge/Instagram-%234B4B4B.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/parikesitaji_)
 
+## Performance - 🔥
+
 
 
 <!--
