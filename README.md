@@ -1,6 +1,5 @@
-## Welcome to my Github
 <div align="center">
-
+* Welcome to my Github *
 
 This is a **sandbox and experimental** account — a playground for testing things out before they (hopefully) move to the main account (coming soon!).
 
