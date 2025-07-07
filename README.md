@@ -29,6 +29,8 @@ Gotta start somewhere, right?
 
 ## Social - 🌏
 ![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=dark)
+[![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=dark)](https://instagram.com/parikesitaji_)
+
 
 
 <!--
