@@ -28,7 +28,7 @@ Gotta start somewhere, right?
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Social - 🌏
-Instagram : [@parikesitaji_](https://instagram.com/parikesitaji_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/parikesitaji_)
 
 
 <!--
