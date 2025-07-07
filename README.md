@@ -1,7 +1,5 @@
 **Welcome to my Github**
-![Demo]([./folder/nama-file.gif](https://tenor.com/id/view/dance-gif-7566194205840438944))
-
-<div class="tenor-gif-embed" data-postid="7566194205840438944" data-share-method="host" data-aspect-ratio="1.78" data-width="100%"><a href="https://tenor.com/view/dance-gif-7566194205840438944">Dance Sticker</a>from <a href="https://tenor.com/search/dance-stickers">Dance Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![dance](https://media.tenor.com/aQCFivS89qAAAAAi/dance.gif)
 
 <div align="center">
 This is a **sandbox and experimental** account — a playground for testing things out before they (hopefully) move to the main account (coming soon!).
