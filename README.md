@@ -1,11 +1,11 @@
 **Welcome to my Github**
 <div align="center">
   <img src="https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif" alt="Deskripsi" width="300"/>
-This is a **sandbox and experimental** account — a playground for testing things out before they (hopefully) move to the main account (coming soon!).
+  <p>This is a **sandbox and experimental** account — a playground for testing things out before they (hopefully) move to the main account (coming soon!).
 
 Thanks a lot for stopping by.  
 If you find anything useful, feel free to ⭐️ it!
-
+</p>
 </div>
 <!--
 **zyne-24/zyne-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
