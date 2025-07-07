@@ -9,15 +9,15 @@ _(hopefully)_ move to the main account _(coming soon!)_ 🚀
 
 Thanks a lot for stopping by. If you find anything useful, feel free to ⭐️ it!
 
-## 🙋‍♂️ - About Me
+## About Me - 🙋‍♂️
 Just a curious teen who likes watching anime with a passion for learning tech and trying out new things.  
 I’m a student with zero tech background 🗿  
 Currently turning my boredom into something productive by gaining as much knowledge and experience as I can. Who knows? Might come in handy someday ✨
 Gotta start somewhere, right?
 
-## 🛠️ My Toolbox
+## My Toolbox - 🛠️
 
-## 🌏 - Social
+## Social - 🌏
 Instagram : [@parikesitaji_](https://instagram.com/parikesitaji_)
 
 
