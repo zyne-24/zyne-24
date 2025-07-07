@@ -16,6 +16,7 @@ Currently turning my boredom into something productive by gaining as much knowle
 Gotta start somewhere, right?
 
 ## My Toolbox - 🛠️
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Social - 🌏
 Instagram : [@parikesitaji_](https://instagram.com/parikesitaji_)
