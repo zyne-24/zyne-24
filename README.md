@@ -32,6 +32,7 @@ Gotta start somewhere, right?
 
 ## Performance - 🔥
 ![zyne's gitHub stats](https://github-readme-stats.vercel.app/api?username=zyne-24&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyne-24&size_weight=0.5&count_weight=0.5)
 
 
 <!--
