@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/49/1e/98/491e98a2c3e81f3efb34db8f9e4c62a8.gif" alt="Deskripsi" width="100%" />
 
-## Hi, im zyne 👋
+## Hi, I'm zyne 👋
 
 This is a **sandbox and experimental** account — a playground for testing things out before they  
 _(hopefully)_ move to the main account _(coming soon!)_ 🚀
