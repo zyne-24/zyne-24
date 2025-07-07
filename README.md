@@ -31,7 +31,7 @@ Gotta start somewhere, right?
 [![Instagram](https://img.shields.io/badge/Instagram-%234B4B4B.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/parikesitaji_)
 
 ## Performance - 🔥
-![zyne's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyne-24&show_icons=true&theme=radical)
+![zyne's gitHub stats](https://github-readme-stats.vercel.app/api?username=zyne-24&show_icons=false&theme=tokyonight)
 
 
 <!--
