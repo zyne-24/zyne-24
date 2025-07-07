@@ -1,6 +1,6 @@
-**Welcome to my Github**
-![dance](https://media.tenor.com/aQCFivS89qAAAAAi/dance.gif)
+![dance](https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif)
 
+**Welcome to my Github**
 <div align="center">
 This is a **sandbox and experimental** account — a playground for testing things out before they (hopefully) move to the main account (coming soon!).
 
