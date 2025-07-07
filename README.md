@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif" alt="Deskripsi" width="500"/>
+  <img src="https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif" alt="Deskripsi" width="100%"/>
   <h2>Welcome to My Github</h2>
   <p>This is a **sandbox and experimental** account — a playground for testing things out before they (hopefully) move to the main account (coming soon!).
 
