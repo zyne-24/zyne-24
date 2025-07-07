@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/0Rct1fnwVZMAAAAd/suou-yuki-sister.gif" alt="Deskripsi" height="250px" align="center"  />
 </div>
 
-# Hi, I'm zyne 👋
+# **Hi, I'm zyne 👋**
 
 This is a **sandbox and experimental** account — a playground for testing things out before they  
 _(hopefully)_ move to the main account _(coming soon!)_ 🚀
