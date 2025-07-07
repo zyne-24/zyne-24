@@ -28,7 +28,6 @@ Gotta start somewhere, right?
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Social - 🌏
-![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=dark)
 [![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=dark)](https://instagram.com/parikesitaji_)
 
 
