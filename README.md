@@ -2,15 +2,14 @@
   <img src="https://media1.tenor.com/m/0Rct1fnwVZMAAAAd/suou-yuki-sister.gif" alt="Deskripsi" height="250px" align="center"  />
 </div>
 
-## Hi, I'm zyne 👋
+# Hi, I'm zyne 👋
 
 This is a **sandbox and experimental** account — a playground for testing things out before they  
 _(hopefully)_ move to the main account _(coming soon!)_ 🚀
 
 Thanks a lot for stopping by. If you find anything useful, feel free to ⭐️ it!
 
-### About Me
-<hr></hr>
+## About Me
 Just a curious teen who likes watching anime with a passion for learning tech and trying out new things.  
 I’m a student with zero tech background 🗿  
 Currently turning my boredom into something productive by gaining as much knowledge and experience as I can. Who knows? Might come in handy someday ✨
