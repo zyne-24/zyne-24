@@ -1,3 +1,5 @@
+![Header](./github-header-image(1).png)
+
 <div align="center">
 
 This is a **sandbox and experimental** account — a playground for testing things out before they (hopefully) move to the main account (coming soon!).
