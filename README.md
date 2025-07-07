@@ -1,5 +1,11 @@
-## Hi there 👋
+<div align="center">
 
+This is a **sandbox and experimental** account — a playground for testing things out before they (hopefully) move to the main account (coming soon!).
+
+Thanks a lot for stopping by.  
+If you find anything useful, feel free to ⭐️ it!
+
+</div>
 <!--
 **zyne-24/zyne-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
