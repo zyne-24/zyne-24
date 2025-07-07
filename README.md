@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Header](./github-header-image(1).png)
+
 This is a **sandbox and experimental** account — a playground for testing things out before they (hopefully) move to the main account (coming soon!).
 
 Thanks a lot for stopping by.  
