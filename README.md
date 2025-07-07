@@ -9,6 +9,8 @@ _(hopefully)_ move to the main account _(coming soon!)_ 🚀
 
 Thanks a lot for stopping by. If you find anything useful, feel free to ⭐️ it!
 
+### About Me
+
 <!--
 gif :
 https://i.pinimg.com/originals/49/1e/98/491e98a2c3e81f3efb34db8f9e4c62a8.gif : Kaneki Ken
