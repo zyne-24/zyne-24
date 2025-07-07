@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/Ch4VFEjuI7IAAAAC/anime-boy.gif" alt="Deskripsi" height="250px"  />
+<img src="https://media1.tenor.com/m/Ch4VFEjuI7IAAAAC/anime-boy.gif" alt="Deskripsi" height="250px" align="center"  />
 
 ## Hi, I'm zyne 👋
 
