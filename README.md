@@ -48,6 +48,7 @@ Gotta start somewhere, right?
 > Resources - 📁
 > - [GIF](https://media1.tenor.com/)  
 > - [Badge](https://github.com/Ileriayo/markdown-badges)
+> - [Stats](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
