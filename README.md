@@ -46,6 +46,8 @@ Gotta start somewhere, right?
 </div>
 
 ###### Resources - 📁
+[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17]
+
 [^1]:[GIF](https://media1.tenor.com/m/0Rct1fnwVZMAAAAd/suou-yuki-sister.gif)
 [^2]:[GIF](https://media1.tenor.com/m/LiqhUEDmWcAAAAAd/cute.gif)
 [^3]:[GIF](https://media1.tenor.com/m/Kr6jKur1_DYAAAAC/cat.gif)
