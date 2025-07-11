@@ -59,8 +59,8 @@ Planning and development timeline for projects to be completed by the end of 202
 
 
 ## Performance - 🔥
-![zyne's gitHub stats](https://github-readme-stats.vercel.app/api?username=zyne-24&show_icons=true&theme=tokyonight&cache_seconds=3500)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyne-24&layout=compact&theme=tokyonight&cache_seconds=3500))
+![zyne's gitHub stats](https://github-readme-stats.vercel.app/api?username=zyne-24&show_icons=true&theme=tokyonight&cache_seconds=360)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyne-24&layout=compact&theme=tokyonight&cache_seconds=360))
 
 ## Miscellaneous - 🎲
 <div align="center">
