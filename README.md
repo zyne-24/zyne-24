@@ -38,7 +38,7 @@ Planning and development timeline for projects to be completed by the end of 202
 | Project                    | Status                          | Estimated Timeline           |
 |----------------------------|--------------------------------|-----------------------------|
 | To-do List                 | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | July 2025                   |
-| QR Generator               | ![Status](https://img.shields.io/badge/Progress-75%25-blue)       | July 2025                   |
+| QR Generator               | ![Status](https://img.shields.io/badge/Progress-97%25-blue)       | July 2025                   |
 | Portfolio                  | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | July 2025                   |
 | Weather Apps               | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | August 2025                 |
 | Bumper Emote Robots        | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | August 2025                 |
