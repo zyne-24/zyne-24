@@ -30,6 +30,34 @@ Gotta start somewhere, right?
 ## Social - 🌏
 [![Instagram](https://img.shields.io/badge/Instagram-%234B4B4B.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/parikesitaji_)
 
+## Projects for Second Half of 2025 (July - December) - 📅
+
+Planning and development timeline for projects to be completed by the end of 2025.
+
+### Project List
+| Project                    | Status                          | Estimated Timeline           |
+|----------------------------|--------------------------------|-----------------------------|
+| To-do List                 | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | July 2025                   |
+| QR Generator               | ![Status](https://img.shields.io/badge/Progress-75%25-blue)       | July 2025                   |
+| Portfolio                  | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | July 2025                   |
+| Weather Apps               | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | August 2025                 |
+| Bumper Emote Robots        | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | August 2025                 |
+| Personal Finance Tracker   | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | September 2025              |
+| Chat App                   | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | September 2025              |
+| E-commerce App             | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | October 2025                |
+| Travel Web                 | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | October 2025                |
+| Edu App                    | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | October 2025                |
+| Chat Bot                   | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | November 2025               |
+| Real Time Editor           | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | November 2025               |
+| Game 2D                   | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | November 2025               |
+| AI                        | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | December 2025               |
+| Neural Network             | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | December 2025               |
+| Framework E-Commerce Laravel | ![Status](https://img.shields.io/badge/Draft-0%25-lightgrey)       | December 2025               |
+
+*Status key:*  
+- **Draft** / To-do: Project not started yet.
+
+
 ## Performance - 🔥
 ![zyne's gitHub stats](https://github-readme-stats.vercel.app/api?username=zyne-24&show_icons=true&theme=tokyonight&cache_seconds=3500)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyne-24&layout=compact&theme=tokyonight&cache_seconds=3500))
