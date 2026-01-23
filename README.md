@@ -26,6 +26,7 @@ Gotta start somewhere, right?
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![image](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 
 ## Social - 🌏
 [![Instagram](https://img.shields.io/badge/Instagram-%234B4B4B.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/parikesitaji_)
