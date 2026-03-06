@@ -4,8 +4,6 @@
   <h1>Hi, I'm zyne 👋</h1>
 </div>
 
----
-
 ### 👨‍💻 About Me
 (under construction)
 
