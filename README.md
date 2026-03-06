@@ -14,6 +14,9 @@
 
 ### 📊 Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zyne-24&show_icons=true&theme=tokyonight&cache_seconds=3600&hide_border=true" alt="zyne's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyne-24&layout=compact&theme=tokyonight&cache_seconds=3600&hide_border=true" alt="Top Languages" />
+
+![zyne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zyne-24&show_icons=true&theme=tokyonight&cache_seconds=3600&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zyne-24&layout=compact&theme=tokyonight&cache_seconds=3600&hide_border=true)
+
 </div>
